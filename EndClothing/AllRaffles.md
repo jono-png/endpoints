@@ -1,5 +1,4 @@
-```markdown
-# AllRaffles.md
+# All current END. Clothing Raffles
 
 To view all the raffles currently hosted by END. Clothing, use the following API endpoint:
 
